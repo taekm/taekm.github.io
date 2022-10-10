@@ -31,7 +31,7 @@ description: hogehoge                        # used by seo meta and the atom fee
 url: 'https://taekm.github.io/'
 
 github:
-  username: teekm             # change to your github username
+  username: taekm             # change to your github username
 
 twitter:
   username:             # change to your twitter username
